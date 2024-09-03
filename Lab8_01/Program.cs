@@ -12,6 +12,7 @@ namespace Lab8_01
         {
             Console.WriteLine("Hi");
             Console.WriteLine("Free");
+            int x = 0;
             Console.ReadLine();
         }
     }
