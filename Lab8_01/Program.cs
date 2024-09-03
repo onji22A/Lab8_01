@@ -10,6 +10,7 @@ namespace Lab8_01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
         }
     }
 }
